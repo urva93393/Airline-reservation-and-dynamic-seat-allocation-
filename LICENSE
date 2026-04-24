@@ -1,21 +1,66 @@
-MIT License
+                    Academic Project License
+                         Version 1.0, 2026
+               Airline Reservation & Seat Allocation Library
+                    github.com/urva/airline
 
-Copyright (c) 2026 urva93393
+   TERMS AND CONDITIONS FOR USE AND DISTRIBUTION
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+   1. About This Project.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+      This software is an original academic project developed as part
+      of a university course assignment in Object Oriented Programming.
+      It demonstrates C++ concepts including Function Overloading and
+      Operator Overloading through an Airline Reservation System.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   2. Who Can Use This.
+
+      "You" means any individual or entity accessing, viewing, or
+      referencing this Project. "Project" means all source code,
+      header files, and documentation available in this repository.
+
+   3. What You Are Allowed To Do.
+
+      You are permitted to view, study, and reference this Project
+      for personal learning and educational purposes only. You may
+      not copy, redistribute, or use this code commercially without
+      written permission from the original Author.
+
+   4. Academic Integrity Warning.
+
+      Submitting this Project or any portion of it as your own work
+      in any academic course or institution is strictly prohibited.
+      The Author takes no responsibility for any academic penalties
+      resulting from misuse of this Project.
+
+   5. Giving Credit.
+
+      Any reference to this Project must include full credit to the
+      original Author with name, roll number, and repository link.
+      Removing or altering attribution is a violation of this License.
+
+   6. No Warranty.
+
+      This Project is provided "AS IS" with no guarantees of
+      correctness, completeness, or fitness for any purpose.
+      Use it at your own risk.
+
+   7. No Liability.
+
+      The Author shall not be held liable for any damages or
+      consequences arising from the use or misuse of this Project
+      under any circumstances.
+
+   END OF TERMS AND CONDITIONS
+
+   -------------------------------------------------------
+   Copyright 2026 URVA
+
+   Project   : Airline Reservation & Seat Allocation Library
+   Language  : C++
+   Author    : urva
+   Roll No   : 32
+   Course    : Object Oriented Programming (OOP)
+   Institute : AIR UNIVERSITY
+   Year      : 2026
+
+   
